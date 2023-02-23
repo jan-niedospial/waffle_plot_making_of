@@ -1,6 +1,6 @@
 # Waffle Plot making of
 
-This is a collection of snapshots of the moments in the making of waffle plot function. I needed them as a source material for some texts.
+This is a collection of snapshots of the moments in the prototyping of the waffle plot function. I needed them as a source material for some texts.
 
 The actual waffle plot function is here: https://github.com/jan-niedospial/waffle_plot
 
